@@ -1,0 +1,4 @@
+name: "SmartCore"
+author: "emanuelVINI"
+main: "com.emanuelvini.smart.core.bukkit.SmartCore"
+version: "1.0-M1"
